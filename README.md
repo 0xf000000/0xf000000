@@ -2,8 +2,8 @@
 -> Currently learning a lot of cs :-) 
 
 facts about me: 
--> I love the Ocean 
--> suffer on insomnia 
+-> I love the Ocean  \n 
+-> suffer on insomnia \n
 -> 
 
 <!---
