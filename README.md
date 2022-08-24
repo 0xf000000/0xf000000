@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @0xf000000
--> Currently learning a lot of cs :-) 
+- 👋 Hi, I’m @0xf000000 <br> 
+-> Currently learning a lot of cs :-)  <br> 
 
-facts about me: 
--> I love the Ocean  
--> suffer on insomnia
+facts about me:  <br> 
+-> I love the Ocean  <br> 
+-> suffer on insomnia <br> 
 -> 
 
 <!---
